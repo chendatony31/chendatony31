@@ -1,4 +1,12 @@
-### Decentralize everything! 
+## ✨ Decentralize everything! ✨
+
+## We are Hiring:
+
+### Senior Frontend Developer
+- Location: Shenzhen, China
+- We are building: [TokenPocket](https://tokenpocket.pro)
+- Email: chenda@tokenpocket.pro
+- Blockchain related development experience is preferred.
 
 <!--
 **chendatony31/chendatony31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
