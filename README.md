@@ -2,7 +2,7 @@
 
 ### 💼 We are Hiring
 
-#### Senior Frontend Developer
+#### Senior Front-End Developer
 - Location: Shenzhen, China
 - We are building: [TokenPocket](https://tokenpocket.pro)
 - Email: chenda@tokenpocket.pro
