@@ -1,10 +1,10 @@
-### ✨ Decentralize everything! ✨
+## ✨ Decentralize everything! ✨
 
-### 💼 We are Hiring
+## 💼 We are Hiring
 
-#### Senior Contract Developer (Solidity | Vyper)
+### Senior Contract Developer (Solidity | Vyper)
 
-#### Senior Front-End Developer
+### Senior Front-End Developer
 
 - Location: Shenzhen, China
 - We are building: [TokenPocket](https://tokenpocket.pro)
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+-------------------
 
 
 
