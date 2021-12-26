@@ -31,6 +31,3 @@ Here are some ideas to get you started:
 
 
 ![loatheb's github stats](https://github-readme-stats.vercel.app/api?username=chendatony31&show_icons=true)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chendatony31.chendatony31)
