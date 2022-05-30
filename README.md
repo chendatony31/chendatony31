@@ -1,4 +1,4 @@
-## ✨ Decentralize everything! ✨
+## ✨ Decentralize something! ✨
 
 ## 💼 We are Hiring
 
