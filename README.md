@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 -------------------
+<a href="https://twitter.com/chendatony31" target="_blank"> <img src="https://img.shields.io/twitter/follow/chendatony31?style=for-the-badge&logo=twitter" /></a>
 
 
-
-![loatheb's github stats](https://github-readme-stats.vercel.app/api?username=chendatony31&show_icons=true)
+![loatheb's github stats](https://github-readme-stats.vercel.app/api?username=chendatony31&show_icons=true&theme=dark)
