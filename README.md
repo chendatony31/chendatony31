@@ -1,14 +1,5 @@
 ## ✨ Decentralize something! ✨
 
-## 💼 We are Hiring
-
-### Senior Contract Developer (Solidity | Vyper)
-
-### Senior Front-End Developer
-
-- Location: Shenzhen, China
-- We are building: [TokenPocket](https://tokenpocket.pro)
-- Email: chenda@tokenpocket.pro
 
 <!--
 **chendatony31/chendatony31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
